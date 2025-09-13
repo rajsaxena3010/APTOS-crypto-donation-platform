@@ -1,0 +1,15 @@
+[package]
+name = "Crypto-Donation-Platform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x647f2ec95ccd7bae7903f450fe409a07607bc59cc06fac8c12f3601108ef090b"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
