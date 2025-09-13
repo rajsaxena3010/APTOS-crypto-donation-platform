@@ -55,3 +55,7 @@ The current smart contract serves as the foundation for a comprehensive donation
 - **Compliance Tools**: Built-in regulatory compliance for different jurisdictions
 - **Enterprise Solutions**: Corporate social responsibility platform for businesses
 - **Impact Measurement**: Integration with IoT and real-world data sources for impact verification
+
+
+
+Transaction Id: 0xb80bb08b62f64d82b66da90a1906a9ed11fdfaf9b5372977c76e10dda61bc966
